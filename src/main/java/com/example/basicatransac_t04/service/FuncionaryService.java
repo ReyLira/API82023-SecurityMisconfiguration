@@ -19,7 +19,6 @@ public class FuncionaryService {
         this.funcionaryRepository = funcionaryRepository;
         this.restTemplate = restTemplate;
     }
-
     public Funcionary create(Funcionary funcionary){
         return funcionaryRepository.save(funcionary);
     }
