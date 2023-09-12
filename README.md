@@ -1,1 +1,2 @@
 # API82023-SecurityMisconfiguration
+-  Microservicio diseñado para registrar datos de manera segura y proteger la información confidencial. Implementa Spring Security para gestionar la autenticación y autorización, garantizando que solo usuarios autorizados puedan acceder a los datos. Además, hemos aplicado encriptación a campos sensibles, como contraseñas, para asegurar la confidencialidad de la información almacenada.
